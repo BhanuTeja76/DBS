@@ -9,5 +9,3 @@ Note: sample application created for my assignment used further to deploy it in 
 
 thank you for reading
 
-Regards
-Bhanu Teja Vala
